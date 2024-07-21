@@ -1,11 +1,30 @@
 # ReactNativeAssignment
-Instagram Clone
-Overview
 
-This project is a simple React Native application that emulates basic functionality of Instagram. It includes three main pages: Login/Sign Up, Homepage, and Profile Page.
+# Instagram Clone
 
-Features
+## Overview
 
-Login/Sign Up Page: Simple UI for logging in or signing up with a username.
-Homepage: Features sections for top stories, posts, and profile suggestions. Includes a profile icon that navigates to the profile page.
-Profile Page: Displays the user’s profile picture, followers, following count, number of posts, and posts in a stacked card format with horizontal scrolling.
+This project is a simple React Native application.
+
+### Features
+
+- **Login Page**: User login functionality.
+- **Homepage**: Displays posts and suggestions.
+- **Profile Page**: Shows user profile and posts.
+
+## Installation
+
+1. **Clone the repository:**
+   git clone <repo-url>
+
+2. **Install Dependencies:**
+    npm install
+
+3. **Run the Application:**
+   npx react-native run-android
+
+
+## Contact
+
+For questions, contact [Abhilasha Banerjee](mailto:abhilashabanerjee02@gmail.com).
+   
